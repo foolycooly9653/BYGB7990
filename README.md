@@ -1,5 +1,5 @@
 # BYGB7990
-This python program is a exercise for class.
+This python program is a exercise for class. You enter the amount of bills and the program can help you to calculate the amount of tips.
 ## installation
 Don't worry about the packages, very simple program.
 ```bash
